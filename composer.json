@@ -1,0 +1,19 @@
+{
+    "name": "amrit/GrapejsEmailTemplates",
+    "description": "This package store Grapejs send data to databse in larave ",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amrit Kafle",
+            "email": "amk.amrit@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "Amrit\\GrapejsEmailTemplates\\": "src/"
+        }
+    }
+}
