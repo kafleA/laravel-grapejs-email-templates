@@ -1,5 +1,5 @@
 {
-    "name": "amritkafle/GrapejsEmailTemplates",
+    "name": "amritkafle/grapejs-email-templates",
     "description": "This package store Grapejs send data to databse in larave ",
     "type": "library",
     "license": "MIT",
